@@ -12,6 +12,3 @@ A golang telegram bot to send the daily offer from digitec.
 This bot is in no way associated with Digitec Galaxus AG.
 
 https://t.me/digitec_daily_offer_bot
-
-# License
-[GPLv3](LICENSE)
